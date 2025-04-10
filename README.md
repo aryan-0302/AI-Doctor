@@ -9,4 +9,4 @@ AI Doctor is an intelligent medical assistant that accepts voice and image input
 - 🤖 AI-Powered Responses: Generates medical suggestions using GROQ (LLM).
 - 🗣️ Voice Output: Listen to the AI doctor’s response via ElevenLabs or gTTS.
 - 📄 Text Output: Get a readable diagnostic summary on-screen.
-- 
+
